@@ -1,0 +1,15 @@
+.movie{
+  width: 20%;
+  display: inline-block;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+}
+
+
+.movie img{
+  width: 200px;
+  height: auto;
+}
